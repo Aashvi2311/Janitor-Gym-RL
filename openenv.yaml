@@ -1,0 +1,10 @@
+name: janitor-gym
+version: 0.1.0
+description: "MLOps agentic environment for code repair."
+tasks:
+  - id: fix_syntax
+    difficulty: easy
+  - id: handle_nan
+    difficulty: medium
+  - id: optimize_acc
+    difficulty: hard
